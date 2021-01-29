@@ -43,7 +43,7 @@ export default class UserForm extends Component {
                      errors.password = 'Password must have a digit character!';
 
                   } else if (!special_pattern.test(values.password)) {
-                     errors.password = `Password must include at least 1: '-+_!@#$%^&*?'`;
+                     errors.password = `Password must include at least one: '-+_!@#$%^&*?'`;
 
                   } else if (!password_pattern.test(values.password)) {
                      errors.password = 'Password must have at least 8 characters!';
