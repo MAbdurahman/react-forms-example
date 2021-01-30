@@ -18,7 +18,7 @@ export default class UserForm extends Component {
    
       return (
          <div className='contact-form'>
-            <h2>Contact Form</h2>
+            <h2>Sign Up Form</h2>
             <Formik
                initialValues={{ email: '', password: '' }}
                validate={values => {
@@ -52,9 +52,10 @@ export default class UserForm extends Component {
 
                   return errors;
                }}
-               onSubmit={(values, { setSubmitting }) => {
+               onSubmit={(values, { setSubmitting, resetForm }) => {
                   setTimeout(() => {
                      alert(JSON.stringify(values, null, 2));
+                     resetForm({});
                      setSubmitting(false);
                   }, 500);
                }}

@@ -8,4 +8,4 @@ First install node_modules folder
 Then to start app in browser at http://localhost:3000
 ### `npm start or yarn start`
 
-![js-contact-form](https://user-images.githubusercontent.com/20928980/106277066-12cdd980-61fe-11eb-80fb-27da8785ae94.gif)
+![js-contact-form](https://user-images.githubusercontent.com/20928980/106353684-ec697600-62b1-11eb-9331-ffd459ec4f75.gif)
