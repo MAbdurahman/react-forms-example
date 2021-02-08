@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MAbdurahman/react-forms-example.git/static/css/main.55bed3a4.chunk.css",
-    "main.js": "/MAbdurahman/react-forms-example.git/static/js/main.45038c15.chunk.js",
-    "main.js.map": "/MAbdurahman/react-forms-example.git/static/js/main.45038c15.chunk.js.map",
-    "runtime-main.js": "/MAbdurahman/react-forms-example.git/static/js/runtime-main.4a384362.js",
-    "runtime-main.js.map": "/MAbdurahman/react-forms-example.git/static/js/runtime-main.4a384362.js.map",
-    "static/js/2.d56491f7.chunk.js": "/MAbdurahman/react-forms-example.git/static/js/2.d56491f7.chunk.js",
-    "static/js/2.d56491f7.chunk.js.map": "/MAbdurahman/react-forms-example.git/static/js/2.d56491f7.chunk.js.map",
-    "static/js/3.6a69c64e.chunk.js": "/MAbdurahman/react-forms-example.git/static/js/3.6a69c64e.chunk.js",
-    "static/js/3.6a69c64e.chunk.js.map": "/MAbdurahman/react-forms-example.git/static/js/3.6a69c64e.chunk.js.map",
-    "index.html": "/MAbdurahman/react-forms-example.git/index.html",
-    "static/css/main.55bed3a4.chunk.css.map": "/MAbdurahman/react-forms-example.git/static/css/main.55bed3a4.chunk.css.map",
-    "static/js/2.d56491f7.chunk.js.LICENSE.txt": "/MAbdurahman/react-forms-example.git/static/js/2.d56491f7.chunk.js.LICENSE.txt"
+    "main.css": "/react-forms-example/static/css/main.55bed3a4.chunk.css",
+    "main.js": "/react-forms-example/static/js/main.45038c15.chunk.js",
+    "main.js.map": "/react-forms-example/static/js/main.45038c15.chunk.js.map",
+    "runtime-main.js": "/react-forms-example/static/js/runtime-main.57e3fab4.js",
+    "runtime-main.js.map": "/react-forms-example/static/js/runtime-main.57e3fab4.js.map",
+    "static/js/2.d56491f7.chunk.js": "/react-forms-example/static/js/2.d56491f7.chunk.js",
+    "static/js/2.d56491f7.chunk.js.map": "/react-forms-example/static/js/2.d56491f7.chunk.js.map",
+    "static/js/3.6a69c64e.chunk.js": "/react-forms-example/static/js/3.6a69c64e.chunk.js",
+    "static/js/3.6a69c64e.chunk.js.map": "/react-forms-example/static/js/3.6a69c64e.chunk.js.map",
+    "index.html": "/react-forms-example/index.html",
+    "static/css/main.55bed3a4.chunk.css.map": "/react-forms-example/static/css/main.55bed3a4.chunk.css.map",
+    "static/js/2.d56491f7.chunk.js.LICENSE.txt": "/react-forms-example/static/js/2.d56491f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a384362.js",
+    "static/js/runtime-main.57e3fab4.js",
     "static/js/2.d56491f7.chunk.js",
     "static/css/main.55bed3a4.chunk.css",
     "static/js/main.45038c15.chunk.js"
